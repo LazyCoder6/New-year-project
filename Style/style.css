@@ -71,17 +71,18 @@ main .Deals-of-Holiday {
 #box_02 {
   background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
     url(../resources/Vectorrr.png);
-  background-size: contain;
+  background-size: cover;
   border-radius: 10px;
   background-repeat: no-repeat;
   margin: 40px 100px;
   display: flex;
   justify-content: center;
+  margin-bottom: 100px;
 }
 
 .Greeting {
   max-width: 590px;
-  padding: 100px 0px 112px 80px;
+  padding: 100px 0px 12px 80px;
 }
 .welcome_Headline {
   color: #fff;
@@ -132,7 +133,7 @@ main .Deals-of-Holiday {
   align-items: center;
   padding-block: 80px;
   padding-bottom: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 100px;
 }
 
 .New_park_Hotel p {
@@ -229,7 +230,7 @@ main .Deals-of-Holiday {
 .what-is-functional {
   margin-top: 20px;
   text-align: center;
-  margin-bottom: 0px;
+  margin-bottom: 100px;
 }
 
 .what-is-functional .title01 {
@@ -269,7 +270,7 @@ main .Deals-of-Holiday {
 /* 6th section styles */
 
 .images-section {
-  margin: 40px 100px;
+  margin: 100px 100px;
   margin-top: 0px;
 }
 .images-desc-subset {
@@ -306,7 +307,7 @@ main .Deals-of-Holiday {
 
 /* 7th section styles */
 .portfolio {
-  margin: 40px 100px;
+  margin: 100px 100px;
 }
 .portfolio .title {
   color: #f00;
@@ -351,7 +352,7 @@ main .Deals-of-Holiday {
   align-items: center;
   text-align: center;
   padding-block: 80px;
-  margin: 40px 100px;
+  margin: 100px 100px;
 }
 
 .newsLetter img {
