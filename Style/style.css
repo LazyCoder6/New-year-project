@@ -81,13 +81,13 @@ main .Deals-of-Holiday {
 
 .Greeting {
   max-width: 590px;
-  padding: 100px 0px 150px 80px;
+  padding: 100px 0px 112px 80px;
 }
 .welcome_Headline {
   color: #fff;
   font-size: 64px;
   font-weight: 900;
-  line-height: 88px; /* 137.5% */
+  line-height: 88px;
   letter-spacing: 7.04px;
 }
 .sec2_text {
